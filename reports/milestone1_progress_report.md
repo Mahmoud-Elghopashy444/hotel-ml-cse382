@@ -1,7 +1,7 @@
 # CSE382 – Milestone 1 Progress Report
 
 **Repository:** https://github.com/Mahmoud-Elghopashy444/hotel-ml-cse382
-**Submitted commit:** `<added after all members push their files>`
+**Submitted commit:** `52c3032da7f9af9f5dae028e8a6d774950ded107`
 
 ## 1. Team members and contributions
 

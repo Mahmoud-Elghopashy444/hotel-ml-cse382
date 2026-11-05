@@ -60,4 +60,4 @@ reports/          Milestone 1 progress report
 | Mazen Ashraf Sobhy | 2400706 | mazenashraf547 | Task C |
 
 Repo: https://github.com/Mahmoud-Elghopashy444/hotel-ml-cse382
-Submitted commit: `<added after all members push their files>`
+Submitted commit: `52c3032da7f9af9f5dae028e8a6d774950ded107`

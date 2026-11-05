@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC_AUC,PR_AUC,time_s
+Dummy (majority),0.585,0.0,0.0,0.0,0.5,0.415,5.766
+Logistic Regression,0.78,0.845,0.593,0.687,0.839,0.836,25.958
+Random Forest,0.777,0.863,0.558,0.672,0.847,0.831,32.172

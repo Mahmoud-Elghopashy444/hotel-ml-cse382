@@ -1,0 +1,6 @@
+Cluster,size,lead_time,nights,adr,adults,kids,special_requests,repeated_guest,MarketSegment,CustomerType,DepositType,share,cancel_rate_post_hoc
+0,14258,6.0,1.0,96.3,1.506,0.008,0.421,0.0,Online TA,Transient,No Deposit,0.18,0.213
+1,29694,150.0,3.0,90.0,1.798,0.0,0.079,0.0,Offline TA/TO,Transient,No Deposit,0.375,0.599
+2,27985,75.0,4.0,112.5,2.122,0.0,1.018,0.0,Online TA,Transient,No Deposit,0.354,0.356
+3,5249,64.0,3.0,146.5,1.885,1.424,0.993,0.0,Online TA,Transient,No Deposit,0.066,0.352
+4,1976,4.0,1.0,66.0,1.362,0.028,0.634,1.0,Corporate,Transient,No Deposit,0.025,0.222

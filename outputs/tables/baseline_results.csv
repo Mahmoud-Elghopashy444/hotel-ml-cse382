@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2,time_s
+Dummy (mean),27.522,37.945,-0.164,2.629
+Linear Regression,16.387,22.84,0.56,4.674
+Random Forest,16.845,24.619,0.494,51.952
